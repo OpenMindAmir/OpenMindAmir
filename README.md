@@ -8,9 +8,9 @@
 
 #### More
 
-- LinkedIn 💼 [in/AmirTheFree](https://linkedin.com/in/AmirTheFree)
+- LinkedIn 💼 [in/OpenMindAmir](https://linkedin.com/in/OpenMindAmir)
 - Website 👉
- **[AmirTheFree.ir](https://AmirTheFree.ir)**
-- CV 🫴 _[AmirTheFree.ir/cv](https://AmirTheFree.ir/cv)_
+ **[OpenMindAmir.ir](https://OpenMindAmir.ir)**
+- CV 🫴 _[OpenMindAmir.ir/cv](https://OpenMindAmir.ir/cv)_
 
 ![Where I live](https://skillicons.dev/icons?i=linux,arch,vscode,github,linkedin,obsidian)
