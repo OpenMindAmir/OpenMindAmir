@@ -1,8 +1,8 @@
-### Full-Stack Engineer 🧑‍💻
+### Software Engineer 🧑‍💻
 
-![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,php)
+![What I Do](https://skillicons.dev/icons?i=python,go,nodejs,django,fastapi,flask)
 
-![What I Do](https://skillicons.dev/icons?i=vue,nuxt,tailwind,flutter,dart,electron)
+![What I Do](https://skillicons.dev/icons?i=express,php,vue,nuxt,tailwind,flutter)
 
 ![What I Do](https://skillicons.dev/icons?i=postgres,mongo,redis,elasticsearch,docker,gitlab,)
 
