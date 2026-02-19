@@ -2,7 +2,7 @@
 
 ![What I Do](https://skillicons.dev/icons?i=python,go,django,fastapi,flask,php)
 
-![What I Do](https://skillicons.dev/icons?i=nodejs,ts,express,vue,nuxt,tailwind)
+![What I Do](https://skillicons.dev/icons?i=nodejs,ts,nest,express,vue,nuxt)
 
 ![What I Do](https://skillicons.dev/icons?i=postgres,mongo,redis,elasticsearch,docker,gitlab,)
 
