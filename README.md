@@ -1,10 +1,8 @@
 ### Software Engineer 🧑‍💻
 
-![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,go,nodejs)
+![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,go,ts)
 
-![What I Do](https://skillicons.dev/icons?i=ts,nest,express,vue,nuxt,wordpress)
-
-![What I Do](https://skillicons.dev/icons?i=postgres,redis,elasticsearch,mongo,docker,gitlab)
+![What I Do](https://skillicons.dev/icons?i=postgres,elasticsearch,docker,githubactions,vue,nuxt)
 
 #### More
 
