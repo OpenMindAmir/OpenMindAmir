@@ -1,4 +1,4 @@
-### Software Engineer 🧑‍💻
+### Back-End Focused End-to-End Software Engineer | Aspiring System Architect 🧑‍💻
 
 ![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,go)
 
