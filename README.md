@@ -4,7 +4,7 @@
 
 ![What I Do](https://skillicons.dev/icons?i=ts,nest,express,vue,nuxt)
 
-![What I Do](https://skillicons.dev/icons?i=postgres,elasticsearch,docker,githubactions,gitlab)
+![What I Do](https://skillicons.dev/icons?i=postgres,elasticsearch,redis,docker,gitlab)
 
 #### More
 
