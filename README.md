@@ -1,4 +1,4 @@
-### Back-End & Infrastructure Engineer | System Design Enthusiast 🧑‍💻
+### Back-End & Infrastructure Engineer | System Design & Security Enthusiast 🧑‍💻
 
 ![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,go)
 
