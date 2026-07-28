@@ -8,7 +8,7 @@
 
 #### More
 
-- LinkedIn 💼 [in/OpenMindAmir](https://linkedin.com/in/OpenMindAmir)
+- LinkedIn 💼 [in/OpenMindAmir](https://www.linkedin.com/in/OpenMindAmir)
 - Website 👉
  **[OpenMindAmir.ir](https://OpenMindAmir.ir)**
 - CV 🫴 _[OpenMindAmir.ir/cv](https://OpenMindAmir.ir/cv)_
