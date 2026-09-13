@@ -1,6 +1,6 @@
 ### Back-End & Infrastructure Engineer | System Design & Security Enthusiast 🧑‍💻
 
-![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,go)
+![What I Do](https://skillicons.dev/icons?i=python,go,django,fastapi,flask)
 
 ![What I Do](https://skillicons.dev/icons?i=ts,nest,express,vue,nuxt)
 
