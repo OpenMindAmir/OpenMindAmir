@@ -1,10 +1,10 @@
 ### Back-End & Infrastructure Engineer | System Design & Security Enthusiast 🧑‍💻
 
-![What I Do](https://skillicons.dev/icons?i=python,go,django,fastapi,flask)
+![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,go,solidity)
 
-![What I Do](https://skillicons.dev/icons?i=ts,nest,express,vue,nuxt)
+![What I Do](https://skillicons.dev/icons?i=js,ts,nest,express,vue,nuxt)
 
-![What I Do](https://skillicons.dev/icons?i=postgres,elasticsearch,redis,docker,gitlab)
+![What I Do](https://skillicons.dev/icons?i=postgres,elasticsearch,redis,kafka,docker,gitlab)
 
 #### More
 
@@ -13,4 +13,4 @@
  **[OpenMindAmir.ir](https://OpenMindAmir.ir)**
 - CV 🫴 _[OpenMindAmir.ir/cv](https://OpenMindAmir.ir/cv)_
 
-![Where I live](https://skillicons.dev/icons?i=linux,arch,vscode,linkedin,obsidian)
+![Where I live](https://skillicons.dev/icons?i=linux,arch,vscode,linkedin,obsidian,github)
